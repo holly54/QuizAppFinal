@@ -1,0 +1,69 @@
+<resources>
+
+    <!-- Base application theme. #616161-->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorButtonNormal">@color/colorPrimary</item>
+    </style>
+
+    <style name="RadioButtonsCheckBoxesText">
+        <item name="android:paddingLeft">@dimen/margins</item>
+        <item name="android:paddingRight">@dimen/margins</item>
+        <item name="android:fontFamily">casual</item>
+    </style>
+
+    <style name="RadioButtonsWithImages">
+        <item name="android:paddingTop">@dimen/imageSpacing</item>
+        <item name="android:paddingLeft">@dimen/margins</item>
+        <item name="android:paddingRight">@dimen/margins</item>
+        <item name="android:fontFamily">casual</item>
+    </style>
+
+    <style name="RadioGroupHeaders">
+        <item name="android:paddingLeft">@dimen/margins</item>
+        <item name="android:paddingRight">@dimen/margins</item>
+        <item name="android:layout_marginBottom">@dimen/imageSpacing</item>
+    </style>
+
+    <style name="AppIntro">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_marginTop">@dimen/imageSpacing</item>
+        <item name="android:fontFamily">casual</item>
+        <item name="android:textSize">@dimen/titleText</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+
+    <style name="DividerImage">
+        <item name="android:layout_marginBottom">@dimen/imageSpacing</item>
+        <item name="android:layout_marginTop">@dimen/imageSpacing</item>
+    </style>
+
+
+    <style name="TextQuestions">
+        <item name="android:textSize">@dimen/questionText</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginTop">@dimen/imageSpacing</item>
+        <item name="android:layout_marginBottom">@dimen/imageSpacing</item>
+        <item name="android:fontFamily">casual</item>
+        <item name="android:paddingRight">@dimen/margins</item>
+        <item name="android:paddingLeft">@dimen/margins</item>
+    </style>
+
+    <style name="SingleImage">
+        <item name="android:paddingTop">@dimen/imageSpacing</item>
+        <item name="android:paddingBottom">@dimen/imageSpacing</item>
+        <item name="android:paddingLeft">@dimen/margins</item>
+        <item name="android:paddingRight">@dimen/margins</item>
+    </style>
+
+    <style name="SubmitButton">
+        <item name="android:fontFamily">casual</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_marginBottom">@dimen/buttonBottom</item>
+    </style>
+
+</resources>

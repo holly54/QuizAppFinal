@@ -1,0 +1,103 @@
+<resources
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">QuizApp</string>
+    <!--Welcome Title-->
+    <string name="bannerImage">Banner image depicting Ancient Egyptian art</string>
+    <string name="welcome">Do you want to travel back </string>
+    <string name="welcome_Second_Line">to Ancient Egypt?</string>
+
+    <!--Divider Image-->
+    <string name="hieroglyphicImage">Image depicting Ancient Egyptian hieroglyphics</string>
+
+    <!--Question One with four answers to choose from-->
+    <string name="question_One">1. The city where the Great Pyramids are located is:</string>
+    <string name="question_One_Ans_One">Cairo</string>
+    <string name="question_One_Ans_Two">Giza</string>
+    <string name="question_One_Ans_Three">Alexandria</string>
+    <string name="question_One_Ans_Four">Luxor</string>
+    <string name="questionOneIsCorrect">1. Excellent choice!</string>
+    <string name="questionOneIsWrong">Try again on Question 1.</string>
+
+    <!--Question Two with four answers to choose from-->
+    <string name="question_Two">2. Anubis was identified as the god of (Pick Two):</string>
+    <string name="question_Two_Ans_One">the crops</string>
+    <string name="question_Two_Ans_Two">the dead</string>
+    <string name="question_Two_Ans_Three">prosperity</string>
+    <string name="question_Two_Ans_Four">the underworld</string>
+    <string name="questionTwoIsCorrect">2. Excellent choice!</string>
+    <string name="questionTwoIsWrong">Try again on Question 2.</string>
+
+    <!--Question Three with four answers to choose from-->
+    <string name="question_Three">3. The head of Anubis is depicted as what animal in illustrations?</string>
+    <string name="question_Three_Ans_One">Cat</string>
+    <string name="question_Three_Ans_Two">Beetle</string>
+    <string name="question_Three_Ans_Three">Eagle</string>
+    <string name="question_Three_Ans_Four">Jackal</string>
+    <string name="questionThreeIsCorrect">3. Excellent choice!</string>
+    <string name="questionThreeIsWrong">Try again on Question 3.</string>
+
+    <!--Question Four with four answers to choose from-->
+    <string name="question_Four">4. Which of the following symbolized eternal life in Ancient Egypt?</string>
+    <string name="question_Four_Ans_One">The Ankh</string>
+    <string name="question_Four_Ans_Two">The Scarab</string>
+    <string name="question_Four_Ans_Three">The Sphinx</string>
+    <string name="question_Four_Ans_Four">The Sistrum</string>
+    <string name="questionFourIsCorrect">4. Excellent choice!</string>
+    <string name="questionFourIsWrong">Try again on Question 4.</string>
+
+    <!--Question Five with true or false answer to choose from-->
+    <string name="question_Five">5. Hieroglyphic text is read only from right to left.</string>
+    <string name="question_Five_Ans_One">True</string>
+    <string name="question_Five_Ans_Two">False</string>
+    <string name="questionFiveIsCorrect">5. Excellent choice!</string>
+    <string name="questionFiveIsWrong">Try again on Question 5.</string>
+
+    <!--Question Six with four answers to choose from-->
+    <string name="question_Six">6. The bust of Nefertiti is widely recognizable.  What is oddly unique about this Ancient Egyptian artifact?</string>
+    <string name="bustOfNefertiti">Image depicting bust of Nefertiti</string>
+    <string name="question_Six_Ans_One">Her face appears perfectly symmetrical</string>
+    <string name="question_Six_Ans_Two">Her nose is missing</string>
+    <string name="question_Six_Ans_Three">Her eyes are closed</string>
+    <string name="question_Six_Ans_Four">Her eyes are missing</string>
+    <string name="questionSixIsCorrect">6. Excellent choice!</string>
+    <string name="questionSixIsWrong">Try again on Question 6.</string>
+
+    <!--Question Seven with four answers to choose from-->
+    <string name="question_Seven">7. Queen Cleopatra VII is most famously associated with which two of her lovers/spouses? (Pick Two):</string>
+    <string name="question_Seven_Ans_One">Khufu</string>
+    <string name="question_Seven_Ans_Two">Pepi II</string>
+    <string name="question_Seven_Ans_Three">Marc Antony</string>
+    <string name="question_Seven_Ans_Four">Julius Caesar</string>
+    <string name="questionSevenIsCorrect">7. Excellent choice!</string>
+    <string name="questionSevenIsWrong">Try again on Question 7.</string>
+
+    <!--Question Eight with free text answer-->
+    <string name="question_Eight">8. Sharing a moniker with a city in Tennessee, this was identified as the first capital city of Ancient Egypt?</string>
+    <string name="question_Eight_Hint">(Hint: Think Elvis Presley)</string>
+    <string name="questionEightIsCorrect">8. Excellent choice!</string>
+    <string name="questionEightIsWrong">Try again on Question 8.</string>
+
+    <!--Question Nine with four answers to choose from-->
+    <string name="question_Nine">9. The Great Sphinx guard the tomb of this pharaoh.</string>
+    <string name="question_Nine_Ans_One">Khafre</string>
+    <string name="question_Nine_Ans_Two">Khufu</string>
+    <string name="question_Nine_Ans_Three">Hatshepsut</string>
+    <string name="question_Nine_Ans_Four">Ramses I</string>
+    <string name="questionNineIsCorrect">9. Excellent choice!</string>
+    <string name="questionNineIsWrong">Try again on Question 9.</string>
+
+    <!--Question Ten with four answers to choose from-->
+    <string name="question_Ten">10. The intact tomb of King Tut, the Boy King, was discovered by Howard Carter in 1922 in the aptly named:</string>
+    <string name="question_Ten_Ans_One">Nile Valley</string>
+    <string name="question_Ten_Ans_Two">Valley of the Kings</string>
+    <string name="question_Ten_Ans_Three">Sinai Peninsula</string>
+    <string name="question_Ten_Ans_Four">Nile Delta</string>
+    <string name="questionTenIsCorrect">10. Excellent choice!</string>
+    <string name="questionTenIsWrong">Try again on Question 10.</string>
+
+    <!--Submit button at the bottom-->
+    <string name="submit">Submit Answers</string>
+
+    <!--Final Score Toast Message-->
+    <string name="final_Score">Your score is <xliff:g id="number" example="5">%d</xliff:g> out of 10</string>>
+</resources>

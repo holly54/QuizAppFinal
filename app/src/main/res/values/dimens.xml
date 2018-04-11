@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="imageSpacing">16dp</dimen>
+    <dimen name="titleText">20sp</dimen>
+    <dimen name="margins">12dp</dimen>
+    <dimen name="buttonBottom">32dp</dimen>
+    <dimen name="questionText">16sp</dimen>
+</resources>
